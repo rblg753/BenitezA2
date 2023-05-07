@@ -1,0 +1,5 @@
+ingresar un numero
+
+clang++ -o hello hello.cpp
+
+
